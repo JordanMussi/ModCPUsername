@@ -9,6 +9,7 @@ ModCP Username Plugin for MyBB
 General
 ----------
 Lets moderators edit a user's username from the profile editor in the Moderator Control Panel.
+This plugin requires [PluginLibrary](http://mods.mybb.com/view/pluginlibrary)
 
 Install
 ----------
