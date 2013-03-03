@@ -3,7 +3,7 @@ ModCP Username Plugin for MyBB
 
 + Current Version: 1
 + Author: Jordan Mussi
-+ Plugin: https://github.com/JordanMussi/ModCPUsername/archive/master.zip
++ Plugin: http://mods.mybb.com/view/ModCPUsername
 + Compatibility: 16*
 
 General
